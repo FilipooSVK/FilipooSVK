@@ -5,9 +5,14 @@
 Infrastructure • Monitoring • Automation • Time Services
 </h3>
 
+</h3>
+
 <p align="center">
   <a href="https://github.com/FilipooSVK">
     <img src="https://img.shields.io/badge/GitHub-FilipooSVK-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/filip-hoza-4a826363/">
+    <img src="https://img.shields.io/badge/LinkedIn-Filip%20Hoza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Stratus%20OS-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Building-Kyronix%20Tools-0A66C2?style=for-the-badge" />
@@ -99,3 +104,17 @@ Infrastructure that is visible.
 Automation that saves time.
 Monitoring that explains problems.
 Tools that solve real IT issues.
+```
+
+---
+
+## 📌 Featured areas
+```text
+NTP / Time Services      → Chrony, GPS/PPS, Stratus OS
+Monitoring              → Prometheus, Grafana, custom exporters
+Windows Automation      → PowerShell, endpoint tooling, driver workflows
+Homelab Infrastructure  → Proxmox, Docker, reverse proxy, internal TLS
+Security & Reliability  → Kyronix CA, service hardening, observability
+```
+
+
