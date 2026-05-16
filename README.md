@@ -1,4 +1,3 @@
-# Filip Hoza
 
 ![Filip Hoza Infrastructure Banner](./banner.png)
 
